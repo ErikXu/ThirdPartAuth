@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPartAuth", "ThirdPartAuth\ThirdPartAuth.csproj", "{0C29BD80-F3CD-476B-B685-8EDE45355450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C29BD80-F3CD-476B-B685-8EDE45355450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C29BD80-F3CD-476B-B685-8EDE45355450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C29BD80-F3CD-476B-B685-8EDE45355450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C29BD80-F3CD-476B-B685-8EDE45355450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5767F8-D527-43C0-828C-57F45E9932E1}
+	EndGlobalSection
+EndGlobal
