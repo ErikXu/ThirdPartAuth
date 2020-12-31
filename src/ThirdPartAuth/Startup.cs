@@ -21,6 +21,7 @@ namespace ThirdPartAuth
             services.AddControllers();
 
             services.AddHttpClient<GithubService>();
+            services.AddHttpClient<GiteeService>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

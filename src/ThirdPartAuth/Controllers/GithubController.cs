@@ -85,7 +85,6 @@ namespace ThirdPartAuth.Controllers
         }
     }
 
-
     public class GithubAccessToken
     {
         [JsonProperty("access_token")]
@@ -97,7 +96,6 @@ namespace ThirdPartAuth.Controllers
         [JsonProperty("scope")]
         public string Scope { get; set; }
     }
-
 
     public class GithubUserInfo
     {
